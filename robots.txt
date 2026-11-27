@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /fender-studio-pro-mcp/
+
+Sitemap: https://dev-universe.github.io/fender-studio-pro-mcp/sitemap.xml
